@@ -1,0 +1,29 @@
+# Build-Ergebnisse
+build/
+bin/
+obj/
+*.exe
+*.pdb
+# Protokolle, Testdateien
+logs/
+*.log
+launcher-*.txt
+ring-*.txt
+watch-*.txt
+track-*.txt
+cam-*.txt
+crashring-*.txt
+# Pakete, Sicherungen
+*.zip
+*.rar
+*.bak
+backup*/
+*.vor-*
+# Spieldateien niemals einchecken
+*.iso
+*.cue
+*.bin
+Data/
+DLL/
+*.avi
+*.cfg
